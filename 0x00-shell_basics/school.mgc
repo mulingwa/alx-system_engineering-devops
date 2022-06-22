@@ -1,6 +1,3 @@
 0	string	SCHOOL	School	data
-:w
-:q
-:wq!
 !:mime School
 
