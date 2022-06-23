@@ -1,2 +1,4 @@
 #!/bin/bash
 chown holberton hello
+#!/bin/bash
+chgrp hello school
